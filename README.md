@@ -1,2 +1,2 @@
-# Data-Structure-and-Algorithm
+# Data-Structure-and-Algorithm-Paterns
 Practice Question
